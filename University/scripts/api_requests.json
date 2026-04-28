@@ -1,0 +1,1062 @@
+[
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/dwr/interface/DrawingSvgService.js",
+    "status": 200,
+    "mimeType": "text/javascript"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-core/graphics/favicon.ico",
+    "status": 200,
+    "mimeType": "image/x-icon"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0195-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0208-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0151-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0238-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0250-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0377-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0118-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0243-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0017-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0073-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0018-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0326-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0142-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0219-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0360-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0181-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0157-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0099-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0228-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1165-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0138-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0158-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0101-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0379-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1145-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0380-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1252-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1206-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0376-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1545-v3-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0364-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0170-v3-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0010-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0055-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1528-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0011-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0152-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0300-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0002-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0087-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1494-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0070-v4-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0062-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0130-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0148-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0108-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0075-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1581-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1093-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0026-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0103-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0094-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0050-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0006-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0008-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0336-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0046-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0365-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0160-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0054-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0001-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0210-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0213-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0556-v6-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0089-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0273-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0015-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0409-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0275-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0066-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0058-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0072-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0201-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0043-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0174-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0188-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0004-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0005-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1540-v3-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0084-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0023-v4-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0324-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0068-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0074-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0014-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0369-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0381-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0106-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0407-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0197-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0220-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0115-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0354-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0295-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0044-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0162-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0052-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0156-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1071-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0140-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1214-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0165-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0306-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0268-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0007-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-.-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0104-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1463-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0172-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0178-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0027-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0141-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0064-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0067-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0041-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0117-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0110-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0378-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0033-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0196-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0249-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0025-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0230-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0048-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1247-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0291-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0071-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0339-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0042-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1248-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0563-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0095-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0373-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0257-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0061-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0193-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0013-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0063-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0091-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0255-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0092-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0350-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0292-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0080-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0289-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1580-v3-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0111-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0126-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0159-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0037-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0154-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0198-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0358-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0222-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0323-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0256-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0076-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0059-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0116-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0551-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0296-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0272-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0176-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0331-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0218-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0102-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0079-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1232-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0112-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0327-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0366-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0060-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0078-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0328-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1517-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0338-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0370-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0040-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0034-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1544-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0166-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0003-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1249-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0171-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0209-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0375-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1582-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-1555-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0371-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0192-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0029-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0564-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0039-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0568-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0032-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0124-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0069-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0237-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0134-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0109-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0242-v2-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0024-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0236-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0012-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0557-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0090-v1-icon.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/uiuc-logo-for-web-print-1255-326.png",
+    "status": 200,
+    "mimeType": "image/png"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/dwr/call/plaincall/DrawingSvgService.highlightSvgDrawing.dwr",
+    "status": 200,
+    "mimeType": "text/javascript"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/eqstd-doc_graphic-STORM_REFUGE-v1.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  },
+  {
+    "url": "https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/tmp/images/bl-bldg_photo-0208-v1.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg"
+  }
+]
